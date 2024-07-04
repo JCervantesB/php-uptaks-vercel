@@ -28,5 +28,8 @@
   },
   "dependencies": {
     "browserslist": "^4.21.11"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
